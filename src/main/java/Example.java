@@ -13,6 +13,7 @@ public class Example {
     }
 
     public static void main(String[] args) throws Exception {
+        System.out.println("Hello world starting");
         SpringApplication.run(Example.class, args);
     }
 
